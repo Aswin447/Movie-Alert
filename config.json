@@ -1,9 +1,10 @@
+
 {
   "detector": "venue_date",
-  "movie": "Avengers: Doomsday",
+  "movie": "Avengers: Doomsday (MS-Infinity Vsn 3D)",
   "requested_date": "20261217",
-  "venue_code": "RAKK",
-  "venue_label": "Rakki Cinemas: OMR, Kelambakkam",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00526287/{date}",
+  "venue_code": "VMHE",
+  "venue_label": "Vanitha Cineplex: Edappally, Kochi",
+  "url_template": "https://in.bookmyshow.com/movies/kochi/avengers-doomsday-msinfinity-vsn-3d-kochi/buytickets/ET00526306/{date}",
   "min_references": 10
 }
